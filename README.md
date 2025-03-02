@@ -1,2 +1,1 @@
-# ABCD
-BASTA ABCD
+JAVA "Hello World" Sample Program
